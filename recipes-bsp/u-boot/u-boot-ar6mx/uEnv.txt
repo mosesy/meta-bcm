@@ -1,0 +1,1 @@
+bootargs_mmc3b=root=/dev/mmcblk2p2 rootwait consoleblank=0
